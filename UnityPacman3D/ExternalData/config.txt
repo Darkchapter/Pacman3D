@@ -1,0 +1,4 @@
+Lives=3
+NormalItems=30
+SuperItems=5
+NormalEnemies=10
